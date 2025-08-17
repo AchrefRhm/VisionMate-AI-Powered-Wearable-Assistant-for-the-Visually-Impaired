@@ -1,23 +1,14 @@
-# 🌟 VisionMate – AI-Powered Wearable Assistant for the Visually Impaired
+# VisionMate – AI-Powered Wearable Assistant for the Visually Impaired
 *Created with ❤️ by Achref Rhouma*
 
-<div align="center">
+---
 
-![VisionMate Banner](https://via.placeholder.com/1200x400.png?text=VisionMate+AI+Wearable+Assistant)
-
-### 🎯 Empowering Independence Through Technology
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge)](https://github.com/ultralytics/ultralytics)
-[![Accessibility](https://img.shields.io/badge/Accessibility-First-green?style=for-the-badge)](https://www.w3.org/WAI/)
-
-</div>
+![VisionMate Banner](https://images.pexels.com/photos/6980526/pexels-photo-6980526.jpeg)
 
 ---
 
 ## 🚀 Overview
-**VisionMate** is a cutting-edge wearable assistant designed to empower blind and visually impaired individuals with **real-time spatial awareness**. Using **YOLOv8 object detection**, monocular depth estimation, and offline voice feedback, VisionMate provides immediate audio and haptic feedback to navigate safely and confidently. Fully self-contained on a **Raspberry Pi**, it requires no internet or external computers after setup.
+**VisionMate** is a cutting-edge wearable assistant designed to empower blind and visually impaired individuals with real-time spatial awareness. Using **YOLOv8 object detection**, monocular depth estimation, and offline voice feedback, VisionMate provides immediate audio and haptic feedback to navigate the world confidently. Fully self-contained on a **Raspberry Pi**, this device requires no internet or external computers after setup.
 
 ---
 
@@ -25,12 +16,12 @@
 
 | Feature | Description | GIF/Visual |
 |---------|-------------|------------|
-| 📷 Object Detection | Detects people, doors, stairs, furniture, vehicles | ![Object Detection](https://via.placeholder.com/150.gif) |
-| 📏 Depth Estimation | Monocular RGB-based distance measurements | ![Depth Estimation](https://via.placeholder.com/150.gif) |
-| 📡 Ultrasonic Alerts | HC-SR04 sensor triggers vibration for nearby obstacles | ![Ultrasonic](https://via.placeholder.com/150.gif) |
-| 🔊 Voice Feedback | On-device TTS announces objects and directions | ![Voice Feedback](https://via.placeholder.com/150.gif) |
-| 🎛️ Tactile Buttons | Physical buttons for scene description & queries | ![Buttons](https://via.placeholder.com/150.gif) |
-| 🌐 Offline Operation | Fully offline, no cloud dependency | ![Offline](https://via.placeholder.com/150.gif) |
+| 📷 Object Detection | Detects people, doors, stairs, furniture, vehicles | ![Object Detection](https://images.pexels.com/photos/4386465/pexels-photo-4386465.jpeg) |
+| 📏 Depth Estimation | Monocular RGB-based distance measurements | ![Depth Estimation](https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg) |
+| 📡 Ultrasonic Alerts | HC-SR04 sensor triggers vibration for nearby obstacles | ![Ultrasonic](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg) |
+| 🔊 Voice Feedback | On-device TTS announces objects and directions | ![Voice Feedback](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg) |
+| 🎛️ Tactile Buttons | Physical buttons for scene description & queries | ![Buttons](https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg) |
+| 🌐 Offline Operation | Fully offline, no cloud dependency | ![Offline](https://images.pexels.com/photos/5077041/pexels-photo-5077041.jpeg) |
 
 ---
 
@@ -49,9 +40,9 @@
 
 ## 🌍 Why VisionMate?
 
-Current navigation solutions are expensive, bulky, or limited in functionality. VisionMate is **low-cost, portable, and intelligent**, combining vision, depth awareness, and intuitive interaction into a single wearable device. It enables users to navigate daily spaces **with confidence and independence**.
+Current navigation solutions are expensive, bulky, or limited in functionality. VisionMate is **low-cost, portable, and intelligent**, combining vision, depth awareness, and intuitive interaction into a single wearable device. It enables users to navigate daily spaces with confidence and independence.
 
-![VisionMate in Action](https://via.placeholder.com/800x400.png?text=VisionMate+Wearable+Demo)
+![VisionMate in Action](https://images.pexels.com/photos/4145194/pexels-photo-4145194.jpeg)
 
 ---
 
@@ -62,7 +53,7 @@ Current navigation solutions are expensive, bulky, or limited in functionality. 
 - 🔮 **Phase 3:** Fully wearable vest/chest strap with modular sensors  
 - 🔭 **Future:** Smart glasses & haptic wristband integration, expanded object training  
 
-![Timeline](https://via.placeholder.com/800x150.png?text=Development+Timeline)
+![Timeline](https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg)
 
 ---
 
@@ -72,12 +63,12 @@ Current navigation solutions are expensive, bulky, or limited in functionality. 
 - Expert in embedded AI & computer vision  
 - Always designing with empathy and human-centered principles  
 
-![Creator Badge](https://via.placeholder.com/150.png?text=Achref+Rhouma)
+![Creator Badge](https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg)
 
 ---
 
 ## 🎉 Demo / GIF Showcase
-![VisionMate Demo](https://via.placeholder.com/600x300.gif?text=VisionMate+Demo+GIF)  
+![VisionMate Demo](https://images.pexels.com/photos/4386465/pexels-photo-4386465.jpeg)  
 *See VisionMate detect objects, alert the user, and provide voice feedback in real time.*
 
 ---
@@ -88,4 +79,3 @@ Check out the source code: [VisionMate Repository](https://github.com/AchrefRhm/
 ---
 
 > ⚡ **Built with innovation and care by Achref Rhouma**, combining AI, accessibility, and human-centered design to make the world more navigable for everyone.
-
