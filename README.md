@@ -1,14 +1,23 @@
-# VisionMate – AI-Powered Wearable Assistant for the Visually Impaired
+# 🌟 VisionMate – AI-Powered Wearable Assistant for the Visually Impaired
 *Created with ❤️ by Achref Rhouma*
 
----
+<div align="center">
 
 ![VisionMate Banner](https://via.placeholder.com/1200x400.png?text=VisionMate+AI+Wearable+Assistant)
+
+### 🎯 Empowering Independence Through Technology
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge)](https://github.com/ultralytics/ultralytics)
+[![Accessibility](https://img.shields.io/badge/Accessibility-First-green?style=for-the-badge)](https://www.w3.org/WAI/)
+
+</div>
 
 ---
 
 ## 🚀 Overview
-**VisionMate** is a cutting-edge wearable assistant designed to empower blind and visually impaired individuals with real-time spatial awareness. Using **YOLOv8 object detection**, monocular depth estimation, and offline voice feedback, VisionMate provides immediate audio and haptic feedback to navigate the world confidently. Fully self-contained on a **Raspberry Pi**, this device requires no internet or external computers after setup.
+**VisionMate** is a cutting-edge wearable assistant designed to empower blind and visually impaired individuals with **real-time spatial awareness**. Using **YOLOv8 object detection**, monocular depth estimation, and offline voice feedback, VisionMate provides immediate audio and haptic feedback to navigate safely and confidently. Fully self-contained on a **Raspberry Pi**, it requires no internet or external computers after setup.
 
 ---
 
@@ -40,7 +49,7 @@
 
 ## 🌍 Why VisionMate?
 
-Current navigation solutions are expensive, bulky, or limited in functionality. VisionMate is **low-cost, portable, and intelligent**, combining vision, depth awareness, and intuitive interaction into a single wearable device. It enables users to navigate daily spaces with confidence and independence.
+Current navigation solutions are expensive, bulky, or limited in functionality. VisionMate is **low-cost, portable, and intelligent**, combining vision, depth awareness, and intuitive interaction into a single wearable device. It enables users to navigate daily spaces **with confidence and independence**.
 
 ![VisionMate in Action](https://via.placeholder.com/800x400.png?text=VisionMate+Wearable+Demo)
 
@@ -79,3 +88,4 @@ Check out the source code: [VisionMate Repository](https://github.com/AchrefRhm/
 ---
 
 > ⚡ **Built with innovation and care by Achref Rhouma**, combining AI, accessibility, and human-centered design to make the world more navigable for everyone.
+
